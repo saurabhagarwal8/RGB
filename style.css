@@ -5,6 +5,7 @@ body{
 #rgb{
     padding-top: 75px;
     margin: auto;
+    font-family: cursive;
 }
 #r{
     font-size: 300px;
@@ -31,4 +32,3 @@ button{
 #r:hover + #rgb{
    background-color: red;
 }
-
