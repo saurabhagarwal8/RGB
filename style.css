@@ -1,34 +1,39 @@
-body{
+@import url('https://fonts.googleapis.com/css?family=Modak&display=swap');
+
+body {
+    font-family: 'Modak', cursive;
     text-align: center;
     vertical-align: middle;
-  }
-#rgb{
+}
+
+#rgb {
     padding-top: 75px;
     margin: auto;
 }
-#r{
-    font-size: 300px;
-    display: inline-block;
-    cursor: pointer;
-}
-#g{
-    font-size: 300px;
-    display: inline-block;
-    cursor: pointer;
-}
-#b{
+
+#r {
     font-size: 300px;
     display: inline-block;
     cursor: pointer;
 }
 
-button{
+#g {
+    font-size: 300px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#b {
+    font-size: 300px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+button {
     background: transparent;
     border: 0;
 }
 
-
-#r:hover + #rgb{
+#r:hover + #rgb {
    background-color: red;
 }
-
