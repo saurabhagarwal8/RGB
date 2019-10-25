@@ -10,16 +10,31 @@ body{
     font-size: 300px;
     display: inline-block;
     cursor: pointer;
+    font-family: 'HK Grotesk';
+    src: url('hkgrotesk-regular-webfont.woff2') format('woff2'),
+            url('hkgrotesk-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 #g{
     font-size: 300px;
     display: inline-block;
     cursor: pointer;
+    font-family: 'HK Grotesk';
+    src: url('hkgrotesk-regular-webfont.woff2') format('woff2'),
+            url('hkgrotesk-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 #b{
     font-size: 300px;
     display: inline-block;
     cursor: pointer;
+    font-family: 'HK Grotesk';
+    src: url('hkgrotesk-regular-webfont.woff2') format('woff2'),
+            url('hkgrotesk-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 button{
