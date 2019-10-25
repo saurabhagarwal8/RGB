@@ -10,16 +10,19 @@ body{
     font-size: 300px;
     display: inline-block;
     cursor: pointer;
+    font-style: italic;
 }
 #g{
     font-size: 300px;
     display: inline-block;
     cursor: pointer;
+    text-decoration: underline;
 }
 #b{
     font-size: 300px;
     display: inline-block;
     cursor: pointer;
+    font-weight: bold;
 }
 
 button{
