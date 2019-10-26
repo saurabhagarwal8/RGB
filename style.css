@@ -1,6 +1,7 @@
 body{
     text-align: center;
     vertical-align: middle;
+    font-family: "Times New Roman", Times, serif;
   }
 #rgb{
     padding-top: 75px;
@@ -10,16 +11,19 @@ body{
     font-size: 300px;
     display: inline-block;
     cursor: pointer;
+    font-family: "Times New Roman", Times, serif;
 }
 #g{
     font-size: 300px;
     display: inline-block;
     cursor: pointer;
+    font-family: "Times New Roman", Times, serif;
 }
 #b{
     font-size: 300px;
     display: inline-block;
     cursor: pointer;
+    font-family: "Times New Roman", Times, serif;
 }
 
 button{
