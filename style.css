@@ -10,16 +10,22 @@ body{
     font-size: 300px;
     display: inline-block;
     cursor: pointer;
+    font-style: oblique;
+    font-family: "Times New Roman", Times, serif;
 }
 #g{
     font-size: 300px;
     display: inline-block;
     cursor: pointer;
+     font-style: oblique;
+    font-family: "Times New Roman", Times, serif;
 }
 #b{
     font-size: 300px;
     display: inline-block;
     cursor: pointer;
+     font-style: oblique;
+    font-family: "Times New Roman", Times, serif;
 }
 
 button{
