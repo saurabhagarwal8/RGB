@@ -3,6 +3,7 @@ body{
     vertical-align: middle;
   }
 #rgb{
+    font-family:"Arial",sans-serif;
     padding-top: 75px;
     margin: auto;
 }
