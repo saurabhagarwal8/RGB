@@ -5,6 +5,7 @@ body{
 #rgb{
     padding-top: 75px;
     margin: auto;
+	font-family: 'Anton', sans-serif;/*Anton from Google fonts*/
 }
 #r{
     font-size: 300px;
