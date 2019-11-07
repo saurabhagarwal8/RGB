@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
 body{
     text-align: center;
     vertical-align: middle;
+    font-family: 'Lato', sans-serif;
   }
 #rgb{
     padding-top: 75px;
