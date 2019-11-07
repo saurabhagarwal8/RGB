@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Neucha&display=swap');
+:root {
+    --fonttype:'Neucha', cursive;
+}
 body{
     text-align: center;
     vertical-align: middle;
@@ -8,16 +12,19 @@ body{
 }
 #r{
     font-size: 300px;
+    font-family: var(--fonttype);
     display: inline-block;
     cursor: pointer;
 }
 #g{
     font-size: 300px;
+    font-family: var(--fonttype);
     display: inline-block;
     cursor: pointer;
 }
 #b{
     font-size: 300px;
+    font-family: var(--fonttype);
     display: inline-block;
     cursor: pointer;
 }
